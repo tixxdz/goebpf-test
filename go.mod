@@ -1,4 +1,4 @@
-module github.com/linux-lock/goebpf-test
+module github.com/tixxdz/goebpf-test
 
 go 1.17
 
